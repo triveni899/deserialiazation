@@ -1,0 +1,3 @@
+Total Words: 10123
+Distinct Words: 3152
+Characters: 43474
